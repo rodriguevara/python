@@ -54,6 +54,3 @@ def convertir_a_diccionario(lista:list) -> dict:
 
 lista = [-1, 0, 4, 100, 100, -1, -1]
 print(convertir_a_diccionario(lista))
-
-
-lista = [-1, 0, 4, 100, 100, -1, -1]
