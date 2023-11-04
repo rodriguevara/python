@@ -1,0 +1,4 @@
+y que hay que probar en una prueba
+la funcion que cuenta palabras
+una prueba para probar
+esto es una prueba
